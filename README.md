@@ -93,11 +93,12 @@ The dashboard includes:
 ---
 
 ## 🧪 Example Input File (Uploaded to S3)
+```
 team_name,tool_name,usage_count,report_date
 Analytics,QuickSight,55,2024-11-01
 Marketing,Sheets,33,2024-11-01
 Support,ServiceNow,41,2024-11-01
-
+```
 
 ---
 
